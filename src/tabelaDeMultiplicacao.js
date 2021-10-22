@@ -9,6 +9,6 @@ function tabela(multiply) {
 
     }
 
-return meuArray
+console.table(meuArray)
 }
-console.table(tabela(10))    
+tabela()    
